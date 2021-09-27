@@ -3,7 +3,7 @@ using namespace std;
 //REVIEW Enhance time complexity
 int main(){
 
-    string s1 = "mom";
+    string s1 = "momn";
     string temp;
     int flag = 1;
     for(int i=s1.length()-1;i>=0;i--){
