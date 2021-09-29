@@ -4,5 +4,4 @@
 
 [STL - Standard Template Library](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
-[Leetcode.com](https://www
-.leetcode.com)
+[leetcode](https://www.leetcode.com)
