@@ -6,4 +6,4 @@
 
 [leetcode](https://www.leetcode.com)
 
-[Git Tutorials)(https://www.youtube.com/watch?v=WbwIoQYP6no)
+[Git Tutorials](https://www.youtube.com/watch?v=WbwIoQYP6no)
