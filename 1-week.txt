@@ -1,0 +1,7 @@
+1. C++ basics
+2. STL (Standard templete library)
+3. leetcode problems
+4. leetcode problems
+5. Git and Github
+6. software Development (PHP and Mysql)
+7. GeeksForGeeks Problems 
