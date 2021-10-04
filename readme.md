@@ -7,6 +7,9 @@
 [leetcode](https://www.leetcode.com)
 
 [problems excel sheet](https://docs.google.com/spreadsheets/d/1KamXmMjhcVQ9Pvka8wVI8NwRUGriKVof3N6qrNXEtEQ/edit#gid=0)
+
+[Git Tutorials](https://www.youtube.com/watch?v=WbwIoQYP6no)
+
 # 1 week inplant training: 
 
 > 1. C++ basics
@@ -18,4 +21,4 @@
 > 7. GeeksForGeeks Problems 
 
 
-[Git Tutorials](https://www.youtube.com/watch?v=WbwIoQYP6no)
+
