@@ -10,7 +10,7 @@
 # 1 week inplant training: 
 
 > 1. C++ basics
-> 2. STL (Standard templete library)
+> 2. STL (Standard template library)
 > 3. leetcode problems
 > 4. leetcode problems
 > 5. Git and Github
